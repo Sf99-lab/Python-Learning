@@ -1,0 +1,9 @@
+Strings, Lists, Tuples and Dictionaries in Python
+
+Objectives
+After completing this lab you will be able to:
+
+Write and manipulate string data in Python
+Work with various functions available in Python to manipulate data in lists.
+Declare and manipulate data in tuples using Python
+Know what are dictionaries in Python and what are the methods available in Python to store, retrieve, modify and access data in Python dictionares.
