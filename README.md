@@ -1,4 +1,4 @@
 Python-Learning
 ----------------------------------------------------------------
 
-This repository contains Python scripts that I am using to learn Python as beginner.
+This repository contains Python scripts for Python newbie.
